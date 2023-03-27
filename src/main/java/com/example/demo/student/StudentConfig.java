@@ -29,7 +29,7 @@ public class StudentConfig {
             Student ron = new Student(
                     "Ronald",
                     LocalDate.of(1980, Month.MARCH, 1),
-                    "hermione@gryffindor.hogwarts.co.uk"
+                    "ronald@gryffindor.hogwarts.co.uk"
             );
 
             Student draco = new Student(
